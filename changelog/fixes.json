@@ -15,7 +15,7 @@
           "title": "First creation",
           "description": "First version of this document created. Tracking begins from v26.1.1.",
           "journal": [
-            "fixes.json initialized. #1 _text_ @crc137 <code>text<code>"
+            "fixes.json initialized. #1 _text_ @crc137 <code>jsx</code>"
           ],
           "contributors": [
             "crc137"
