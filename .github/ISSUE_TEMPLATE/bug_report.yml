@@ -11,7 +11,7 @@ body:
           required: true
         - label: I have searched on the [issue tracker](https://github.com/coonlink/Gan-A/issues?q=is%3Aissue) for my bug.
           required: true
-        - label: I am running the latest [Gan-A version](https://github.com/coonlink/Gan-A/releases) or have an issue updating.
+        - label: I am running the latest [Gan-A version](https://ahgan.coonlink.com/changelog) or have an issue updating.
           required: true
   - type: textarea
     id: version
